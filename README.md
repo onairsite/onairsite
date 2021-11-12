@@ -4,8 +4,8 @@
 
 
 ## I'm a Software Developer, Graphic designer , and Social media manager!
-- ✍ You can find my projects here www.onairsite.com 
-- 🌱 I’m currently learning React
+- ✍ my Website  www.onairsite.com 
+- 🌱 I’m currently learning Flutter and Made  mobile app 
 - 👯 I’m looking to collaborate on open source
 - 😄 Ask me about ... Anything
 - ⚡ Fun fact: I speak 4 languages ( Azeri ,Pershian , Turkish,English )
