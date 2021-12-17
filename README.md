@@ -3,7 +3,7 @@
  <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
 
 
-## I'm a Software Developer, Graphic designer , and Social media manager!
+## I'm a Software Engineer,Full stack developer, Graphic designer, and Social media manager!
 - ✍ my Website  www.onairsite.com 
 - 🌱 I’m currently learning Flutter and Made  mobile app 
 - 👯 I’m looking to collaborate on open source
