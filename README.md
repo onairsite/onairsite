@@ -4,11 +4,10 @@
 
 
 ## I'm a Software Engineer, Full stack developer, Graphic designer, and Social media manager!
-- ✍ my Website  www.onairsite.com 
-- 🌱 I’m currently learning Flutter and Made  mobile app 
-- 👯 I’m looking to collaborate on open source
-- 😄 Ask me about ... Anything
-- ⚡ Fun fact: I speak 4 languages ( Azeri ,Pershian , Turkish,English )
+	•	🌱 I’m currently developing frontend applications using Flutter and backend services with .NET Core.
+	•	👯 I’m looking to collaborate on open source projects.
+	•	😄 Ask me about … Anything!
+	•	⚡ Fun fact: I speak 4 languages (Azeri, Persian, Turkish, English).
 
 
 
