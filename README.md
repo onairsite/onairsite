@@ -1,6 +1,6 @@
 ### Hello World, I'm Arzu  👋
 
- <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="450" height="320" />
 
 
 ## I'm a Software Engineer, Full stack developer, Graphic designer, and Social media manager!
