@@ -3,7 +3,7 @@
 ## Software Developer | Flutter | .NET Core | Angular | Backend Enthusiast
 
 
-  <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="450" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="450" height="300" />
 
 ### 🚀 About Me  
 
