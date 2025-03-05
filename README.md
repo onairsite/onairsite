@@ -1,8 +1,10 @@
 ### Hello World, I'm Arzu  👋
 
- <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="450" height="320" />
 
 ## 🚀  Software Engineer ,Senior .NET & Full-Stack Developer |.Net core webApi | angular | flutter | Multi-Tenant System Architect | Graphic designer 
+
+ <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="450" height="320" />
+
 
 • 🌱 I’m developing frontend applications using Flutter<br/>
 • 🌱 I’m developing backend services using .NET Core.<br/>
