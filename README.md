@@ -5,9 +5,9 @@
 
 ## I'm a Software Engineer, Full stack developer, Graphic designer, and Social media manager!
 
-• 🌱 I’m developing frontend applications using Flutter <br />
-• 🌱 I’m developing backend services using .NET Core.<br />
-• 👯 I’m looking to collaborate on open source projects.<br />
+• 🌱 I’m developing frontend applications using Flutter<br/>
+• 🌱 I’m developing backend services using .NET Core.<br/>
+• 👯 I’m looking to collaborate on open source projects.<br/>
 • 😄 Ask me about … Anything!<br />
 • ⚡ Fun fact: I speak 4 languages (Azeri, Persian, Turkish, English).<br />
 
