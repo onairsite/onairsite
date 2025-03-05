@@ -10,7 +10,7 @@
 - 🏫 Focused on **school management systems, social platforms, and AI-driven solutions**  
 - 📌 Currently working on **a school-based social platform and a pet care management system**  
 
----
+
 
 ### 🛠️ Languages and Tools  
 
