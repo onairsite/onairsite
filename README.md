@@ -1,20 +1,18 @@
 ### Hi, I'm Arzu 👋
 
 ## Software Developer | Flutter | .NET Core | Angular | Backend Enthusiast
+<br>
 
   <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="450" height="320" />
   <br>
 
 ### 🚀 About Me  
 
-<br>
 - 🔹 **Software Developer** with expertise in **.NET Core, Flutter, and Angular**  
 - 🎯 Passionate about **backend development, API design, and multi-tenant architectures**  
 - 🏫 Focused on **school management systems, social platforms, and AI-driven solutions**  
 - 📌 Currently working on **a school-based social platform management system**  
 
-
-<br>
 
 ### 🛠️ Languages and Tools  
 
