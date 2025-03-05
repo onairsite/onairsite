@@ -12,7 +12,7 @@
 - 🏫 Focused on **school management systems, social platforms, and AI-driven solutions**  
 - 📌 Currently working on **a school-based social platform management system**  
 
-
+</br>
 
 ### 🛠️ Languages and Tools  
 
