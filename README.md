@@ -3,7 +3,6 @@
 
 ## 🚀  Software Engineer ,Senior .NET & Full-Stack Developer |.Net core webApi | angular | flutter | Multi-Tenant System Architect | Graphic designer 
 
- <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="450" height="320" />
 
 
 • 🌱 I’m developing frontend applications using Flutter<br/>
@@ -11,6 +10,7 @@
 • 👯 I’m looking to collaborate on open source projects.<br/>
 • 😄 Ask me about … Anything!<br />
 • ⚡ Fun fact: I speak 4 languages (Azeri, Persian, Turkish, English).<br />
+  <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="450" height="320" />
 
 
 
