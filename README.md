@@ -1,20 +1,8 @@
-### Hello World, I'm Arzu  👋
+### Hi, I'm Arzu 👋
 
-
-## 🚀  Software Engineer ,Senior .NET & Full-Stack Developer |.Net core webApi | angular | flutter | Multi-Tenant System Architect | Graphic designer 
+## Software Developer | Flutter | .NET Core | Angular | Backend Enthusiast
 
   <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="450" height="320" />
-
-
-<h1 align="center">Hi, I'm Arzu 👋</h1>
-
-<p align="center">
-  <a href="https://github.com/your-github-profile">
-    <img src="https://komarev.com/ghpvc/?username=your-github-profile&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
-  </a>
-</p>
-
----
 
 ### 🚀 About Me  
 - 🔹 **Software Developer** with expertise in **.NET Core, Flutter, and Angular**  
