@@ -1,10 +1,9 @@
 ### Hi, I'm Arzu 👋
 
 ## Software Developer | Flutter | .NET Core | Angular | Backend Enthusiast
-<br>
+
 
   <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="450" height="320" />
-
 
 ### 🚀 About Me  
 
