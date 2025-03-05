@@ -2,8 +2,7 @@
 
  <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="450" height="320" />
 
-
-## I'm a Software Engineer, Full stack developer, Graphic designer, and Social media manager!
+## 🚀  Software Engineer ,Senior .NET & Full-Stack Developer |.Net core webApi | angular | flutter | Multi-Tenant System Architect | Graphic designer 
 
 • 🌱 I’m developing frontend applications using Flutter<br/>
 • 🌱 I’m developing backend services using .NET Core.<br/>
