@@ -7,10 +7,10 @@
 
 ### 🚀 About Me  
 
-- 🔹 **Software Developer** with expertise in **.NET Core, Flutter, and Angular**  
-- 🎯 Passionate about **backend development, API design, and multi-tenant architectures**  
-- 🏫 Focused on **school management systems, social platforms, and AI-driven solutions**  
-- 📌 Currently working on **a school-based social platform management system**  
+- 🔹 **Software Developer** with expertise in **.NET Core, Flutter, and Angular**  </br>
+- 🎯 Passionate about **backend development, API design, and multi-tenant architectures**  </br>
+- 🏫 Focused on **school management systems, social platforms, and AI-driven solutions**  </br>
+- 📌 Currently working on **a school-based social platform management system**  </br>
 
 </br>
 
